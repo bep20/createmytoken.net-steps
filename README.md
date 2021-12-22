@@ -1,1 +1,1 @@
-# createmytoken.net-steps
+# createmytoken.net
